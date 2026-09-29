@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="Athena the andalusian">
+  <defs><linearGradient id="bg" x1="0" y1="1" x2="1"><stop stop-color="#284c62"/><stop offset="1" stop-color="#bf7185"/></linearGradient></defs><rect width="900" height="720" fill="url(#bg)"/><circle cx="110" cy="110" r="190" fill="#ffe2dc" opacity=".13"/><path d="M0 580c262-112 441-38 900-18v158H0z" fill="#1c3141" opacity=".62"/>
+  <g transform="translate(235 70)"><path d="M183 93 123 2l-17 132C40 181 16 258 31 356c17 108 91 168 202 168 124 0 198-82 198-202 0-85-37-150-105-189L294 0l-78 96z" fill="#dfe5e8"/><path d="M188 97c54-44 104-23 150 58-40-28-81-14-122 42-9-46-19-80-28-100z" fill="#f7f5f3"/><path d="M117 138c-72 62-88 157-48 285-38-58-56-129-54-213 2-78 36-126 102-145z" fill="#f4f2f1"/><ellipse cx="138" cy="242" rx="13" ry="19" fill="#26313a"/><ellipse cx="308" cy="242" rx="13" ry="19" fill="#26313a"/><path d="M148 371c48 23 99 23 152 0" fill="none" stroke="#8c969b" stroke-width="10" stroke-linecap="round"/></g>
+</svg>
+

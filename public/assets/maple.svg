@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="Maple the palomino">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9b66d"/><stop offset="1" stop-color="#914c5b"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".24"/></filter></defs>
+  <rect width="900" height="720" fill="url(#bg)"/><circle cx="155" cy="130" r="86" fill="#ffd78b" opacity=".35"/><path d="M0 550c180-110 300-45 440-92 178-61 291-16 460 74v188H0z" fill="#4e293c" opacity=".66"/>
+  <g filter="url(#s)" transform="translate(235 76)"><path d="M185 88 132 0l-26 124c-78 43-111 119-87 225 22 96 101 168 211 168 118 0 199-85 201-201 2-83-35-153-101-190L291 0l-73 91z" fill="#edc07c"/><path d="M111 125c35-47 74-68 118-63 39 5 78 28 112 69-18-7-37-7-56 2-73 34-106 36-174-8z" fill="#fff0bf"/><ellipse cx="137" cy="233" rx="13" ry="18" fill="#281d25"/><ellipse cx="307" cy="233" rx="13" ry="18" fill="#281d25"/><path d="M135 350c56 31 116 31 173 0" fill="none" stroke="#76524d" stroke-width="10" stroke-linecap="round"/><path d="M187 296c21 12 47 12 68 0" fill="none" stroke="#9e6f5c" stroke-width="8" stroke-linecap="round"/></g>
+</svg>
+

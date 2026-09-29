@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="Pixel the appaloosa">
+  <defs><linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#8a79d6"/><stop offset="1" stop-color="#30304f"/></linearGradient></defs><rect width="900" height="720" fill="url(#bg)"/><path d="M0 590c177-90 335-85 471-27 170 72 292-30 429-17v174H0z" fill="#24243d" opacity=".72"/>
+  <g transform="translate(235 70)"><path d="M184 91 125 5l-18 127C40 178 16 258 31 354c17 109 91 168 202 168 124 0 198-82 198-202 0-84-37-149-105-188L294 0l-78 94z" fill="#e8dfd5"/><g fill="#564a51"><circle cx="113" cy="167" r="24"/><circle cx="309" cy="157" r="31"/><circle cx="102" cy="327" r="35"/><circle cx="343" cy="340" r="22"/><circle cx="233" cy="407" r="29"/></g><path d="M188 95c48-42 98-30 143 37-35-5-67 10-98 46-17-40-32-68-45-83z" fill="#2c2430"/><ellipse cx="138" cy="242" rx="13" ry="19" fill="#211a23"/><ellipse cx="308" cy="242" rx="13" ry="19" fill="#211a23"/><path d="M147 371c48 23 99 23 153 0" fill="none" stroke="#675860" stroke-width="10" stroke-linecap="round"/></g>
+</svg>
+

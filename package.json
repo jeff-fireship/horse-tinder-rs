@@ -1,0 +1,15 @@
+{
+  "name": "horse-tinder-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild web/app.js --bundle --minify --format=iife --outfile=public/assets/app.js"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.3",
+    "jefflag": "file:vendor/jefflag-3.4.1.tgz"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}

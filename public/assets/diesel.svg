@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="Diesel the clydesdale">
+  <defs><linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#527a73"/><stop offset="1" stop-color="#172d39"/></linearGradient></defs><rect width="900" height="720" fill="url(#bg)"/><circle cx="740" cy="120" r="170" fill="#a1d7bb" opacity=".12"/><path d="M0 570c230-74 420-66 900-6v156H0z" fill="#101c28" opacity=".62"/>
+  <g transform="translate(235 64)"><path d="M178 90 114 8l-10 134C39 191 14 263 29 360c16 104 90 164 200 164 126 0 202-79 202-200 0-88-37-153-105-190L294 4l-80 91z" fill="#6f493d"/><path d="M191 96c47-35 99-24 137 39-27-3-53 10-78 39-24-38-44-64-59-78z" fill="#21191b"/><path d="M201 102c-29 76-24 142 15 198l42-9c-34-71-29-133 15-185z" fill="#f5e5d0"/><ellipse cx="137" cy="242" rx="13" ry="19" fill="#141114"/><ellipse cx="310" cy="242" rx="13" ry="19" fill="#141114"/><path d="M145 371c47 20 99 20 154 0" fill="none" stroke="#251a1a" stroke-width="10" stroke-linecap="round"/></g>
+</svg>
+

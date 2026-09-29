@@ -1,0 +1,3 @@
+[submodule "src/proprietary"]
+	path = src/proprietary
+	url = https://github.com/jeff-fireship/stable-match.git

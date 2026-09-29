@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="Mocha the thoroughbred">
+  <defs><linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#be8d62"/><stop offset="1" stop-color="#44313a"/></linearGradient></defs><rect width="900" height="720" fill="url(#bg)"/><circle cx="144" cy="113" r="110" fill="#ffe6b1" opacity=".18"/><path d="M0 585c210-106 383-35 526-1 141 34 246-40 374-24v160H0z" fill="#33232d" opacity=".7"/>
+  <g transform="translate(235 68)"><path d="M184 93 124 4l-18 130C40 182 16 260 31 357c17 108 91 168 202 168 124 0 198-82 198-202 0-85-37-150-105-188L294 1l-78 95z" fill="#704a3f"/><path d="M188 97c51-44 104-27 150 52-39-18-77-5-115 39-14-42-25-72-35-91z" fill="#2a2024"/><path d="M207 99c-14 60-4 118 30 175l35-17c-28-62-17-112 31-151z" fill="#f0d6bd"/><ellipse cx="138" cy="243" rx="13" ry="19" fill="#181316"/><ellipse cx="308" cy="243" rx="13" ry="19" fill="#181316"/><path d="M148 372c49 23 99 23 152 0" fill="none" stroke="#3d2827" stroke-width="10" stroke-linecap="round"/></g>
+</svg>
+
